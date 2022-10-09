@@ -1,0 +1,23 @@
+{
+  "name": "fb87b0eeef1319ad21da3f1cdacda11b",
+  "version": "1.0.0",
+  "description": "### Path 라이브러리 만들기",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest ./*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/fb87b0eeef1319ad21da3f1cdacda11b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/fb87b0eeef1319ad21da3f1cdacda11b"
+  },
+  "homepage": "https://gist.github.com/fb87b0eeef1319ad21da3f1cdacda11b",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
